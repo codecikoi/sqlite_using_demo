@@ -81,7 +81,7 @@ class _SqliteUsingState extends State<SqliteUsing> {
               ),
             ),
             Row(
-              mainAxisAlignment: MainAxisAlignment.center,
+              crossAxisAlignment: CrossAxisAlignment.center,
               children: [
                 ElevatedButton(
                   style: ElevatedButton.styleFrom(
